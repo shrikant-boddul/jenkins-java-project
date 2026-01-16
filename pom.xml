@@ -19,7 +19,7 @@
 		<dependency>
     <groupId>com.oracle.bedrock</groupId>
     <artifactId>bedrock-runtime</artifactId>
-    <version>7.x.x</version>
+    <version>7.0.0</version>
        </dependency>
 
 		
