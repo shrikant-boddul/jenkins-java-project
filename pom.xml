@@ -17,10 +17,11 @@
 
 	<dependencies>
 		<dependency>
-		    <groupId>com.oracle.bedrock</groupId>
-		    <artifactId>bedrock-runtime-maven</artifactId>
-		    <version>5.1.2</version>
-		</dependency>
+    <groupId>com.oracle.bedrock</groupId>
+    <artifactId>bedrock-runtime</artifactId>
+    <version>7.x.x</version>
+       </dependency>
+
 		
 		<dependency>
 			<groupId>junit</groupId>
