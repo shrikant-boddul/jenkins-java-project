@@ -10,6 +10,7 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
+		<maven.compiler.release>17</maven.compiler.release>
 </properties>
 
 	<dependencies>
