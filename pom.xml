@@ -9,7 +9,6 @@
 	<url>http://maven.apache.org</url>
 	
 	<properties>
-    <maven.compiler.release>21</maven.compiler.release>
 		<docker.image.prefix>kammana</docker.image.prefix>
 </properties>
 
